@@ -3,7 +3,7 @@ title: Andrea Gambedotti - derived from theme Jeky New Age, the start Bootstrap 
 email:
 description: The official website of D R E A M O - Bio-Acoustical Driven Visual Generator
 
-baseurl: "dreamo/" # the subpath of your site, e.g. /blog/ (If you use organization leave empty)
+baseurl: "" # the subpath of your site, e.g. /blog/ (If you use organization leave empty)
 url: "https://dreamo-italy.github.io" # the base hostname & protocol for your site
 
 #Google Ad Words Data from scripts code (using Google responsive options) and ad client
