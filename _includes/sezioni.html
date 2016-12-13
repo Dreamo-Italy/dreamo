@@ -1,0 +1,65 @@
+{% for feature in site.sezioni %}
+<section class="{% cycle 'sezione_chiara', 'sezione_scura' %}">
+    <hr id='{{ feature.nid }}'>
+    <div class="container">
+    	{% if feature.nid == 'team' %}
+        <div class="row">
+            <div class="col-sm-12">
+                <div class="header-content">
+                    <div class="header-content-inner">
+                        <h2>{{feature.heading}}<br><span>{{ feature.subheading }}</span></h2>
+                              <div class='lead'>{{ feature.content }}</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-sm-3">
+                <div class="text-center">
+                	<img class='img-responsive img-circle' src='{{ feature.image1 }}'><br>
+                	<p>{{ feature.bio1 }}</p>
+                </div>
+            </div>
+            
+            <div class="col-sm-3">
+                <div class="text-center">
+                	<img class='img-responsive img-circle' src='{{ feature.image2 }}'><br>
+                	<p>{{ feature.bio2 }}</p>
+                </div>
+            </div>
+            
+            <div class="col-sm-3">
+                <div class="text-center">
+                	<img class='img-responsive img-circle' src='{{ feature.image3 }}'><br>
+                	<p>{{ feature.bio3 }}</p>
+                </div>
+            </div>
+            
+            <div class="col-sm-3">
+                <div class="text-center">
+                	<img class='img-responsive img-circle' src='{{ feature.image4 }}'><br>
+                	<p>{{ feature.bio4 }}</p>
+                </div>
+            </div>
+        </div>
+        {% else %}
+        <div class="row">
+            <div class="col-sm-7">
+                <div class="header-content">
+                    <div class="header-content-inner">
+                        <h2>{{feature.heading}}<br><span>{{ feature.subheading }}</span></h2>
+                              <div class='lead'>{{ feature.content }}</div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-5">
+                <div class="device-container">
+                	<img class='img-responsive' src='{{ feature.image }}'>
+                </div>
+            </div>
+        </div>
+        {% endif %}
+    </div>
+</section>
+{% endfor %}
+
