@@ -1,6 +1,5 @@
 {% for feature in site.sezioni %}
-<section class="{% cycle 'sezione_chiara', 'sezione_scura' %}">
-    <hr id='{{ feature.nid }}'>
+<section id='{{ feature.nid }}' class="{% cycle 'sezione_chiara', 'sezione_scura' %}">
     <div class="container">
     	{% if feature.nid == 'team' %}
         <div class="row">
