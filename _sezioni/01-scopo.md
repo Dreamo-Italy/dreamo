@@ -1,5 +1,4 @@
 ---
-layout: sezione
 id: scopo
 nid: scopo
 name: Scopo del progetto

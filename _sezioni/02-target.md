@@ -1,5 +1,4 @@
 ---
-layout: sezione
 id: target
 nid: target
 name: Target

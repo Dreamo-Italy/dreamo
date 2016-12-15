@@ -1,5 +1,4 @@
 ---
-layout: sezione-team
 id: team
 nid: team
 name: Il Team

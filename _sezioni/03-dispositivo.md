@@ -1,5 +1,4 @@
 ---
-layout: sezione
 id: dispositivo
 nid: dispositivo
 name: Dispositivo
