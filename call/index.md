@@ -1,6 +1,7 @@
 ---
 layout: call
 id: call
+title: D R E A M O  |  Bio-Acoustical Driven Visual Generator | Call for Visuals
 
 requisiti-titolo: Requisiti richiesti
 requisiti-testo: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
