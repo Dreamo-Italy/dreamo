@@ -17,11 +17,10 @@ come-immagine:
 contatti-titolo: Contatti
 contatti-testo: 'e-mail: <a href="mailto:dreamoitaly@gmail.com">dreamoitaly@gmail.com</a><br>
 Facebook: <a href="http://facebook.com/dreamoItaly">facebook.com/dreamoItaly</a><br>
-website: <a href="https://dreamo-italy.github.io/dreamo">https://dreamo-italy.github.io/dreamo</a>
+website: <a href="https://dreamo-italy.github.io/dreamo">https://dreamo-italy.github.io/dreamo</a><br>
 Se invece volete scambiare due parole di persona, ci trovate tutti i mercoledì pomeriggio al
-<a href="http://fablabtorino.org/">_Fablab Torino_</a>. '
+<a href="http://fablabtorino.org/">_Fablab_</a>. '
 contatti-immagine:
-
 ---
 
 #Call for Visuals
