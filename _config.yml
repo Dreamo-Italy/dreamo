@@ -27,8 +27,8 @@ social:
     url: https://github.com/dreamo-italy
 
 # Build settings
-# markdown: kramdown
-markdown: redcarpet
+markdown: kramdown
+# markdown: redcarpet // deprecato
 # highlighter: rouge
 permalink: pretty
 paginate: 5
