@@ -23,7 +23,7 @@ Se invece volete scambiare due parole di persona, ci trovate tutti i mercoledì 
 contatti-immagine:  
 ---
 
-#Call for Visuals
+<h1>Call for Visuals</h1>
 **Dreamo** è un progetto open-source, pensato da un piccolo gruppo di appassionati di tecnologia e arte,
 studenti del Politecnico di Torino.
 <br/> Il nucleo del programma è stato scritto. Adesso servono **nuove idee** per
