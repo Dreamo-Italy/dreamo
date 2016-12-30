@@ -1,5 +1,6 @@
 /_site
 /_site/**
+_site/*
 _site/**
 _site/feed.xml
 NOTE ANDREA.md
