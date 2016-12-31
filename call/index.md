@@ -4,14 +4,14 @@ id: call
 title: D R E A M O  |  Bio-Acoustical Driven Visual Generator | Call for Visuals
 
 requisiti-titolo: Requisiti
-requisiti-testo: 'Cerchiamo **programmatori**, **designer**, **visual artists** o **appassionati**
+requisiti-testo: 'Cerchiamo <strong>programmatori</strong>, <strong>designer</strong>, <strong>visual artists</strong> o <strong>appassionati</strong>
 che vogliano collaborare alla creazione di effetti visivi
-da realizzare con software <a href="https://processing.org" >_Processing_</a> (Java).'
+da realizzare con software <a href="https://processing.org" ><em>Processing</em></a> (Java).'
 requisiti-immagine: "processing-handbook.jpg"
 
 come-titolo: Come partecipare al Progetto Dreamo
-come-testo: "Se il progetto ti appassiona contattaci al più presto e **proponi
-la tua idea**. Insieme la implementeremo su Dreamo entro febbraio 2017. "
+come-testo: "Se il progetto ti appassiona contattaci al più presto e <strong>proponi
+la tua idea</strong>. Insieme la implementeremo su Dreamo entro febbraio 2017. "
 come-immagine:
 
 contatti-titolo: Contatti
