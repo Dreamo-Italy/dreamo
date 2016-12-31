@@ -7,4 +7,7 @@ subheading:
 image: "http://lorempixel.com/500/340/abstract"
 ---
 
-Testo da definire.
+I biosegnali, quali battito cardiaco e sudorazione, monitorati mediante un bracciale corredato di sensori, permettono di ricavare informazioni sullo stato d'animo del performer.
+L’audio in ingresso, raccolto tramite ingressi jack, contiene altrettante informazioni sul mood dell'esibizione. </p>
+Queste informazioni verranno quindi utilizzate per scegliere l'effetto visivo chr più si adatta alla performance, nonché per rendere il video reattivo e dinamico.
+Se siete interessati potete approfondire sfogliando questo <a href="https://drive.google.com/open?id=1OZDLGxfbXZeDAKrvFt3UCfgj15zuz4HuL2U-3lGGjKE"> documento.
