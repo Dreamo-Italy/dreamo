@@ -29,7 +29,7 @@ social:
 # Build settings
 markdown: kramdown
 kramdown:
-parse_block_html: true
+	parse_block_html: true
 # markdown: redcarpet // deprecato
 # highlighter: rouge
 permalink: pretty
