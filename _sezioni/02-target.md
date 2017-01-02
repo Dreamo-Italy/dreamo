@@ -7,4 +7,4 @@ subheading:
 image: "http://lorempixel.com/500/330/abstract"
 ---
 
-At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. <br><br>Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. 
+<p> Dreamo è destinato in primo luogo a <b> musicisti e DJ </b> che vorrebbero aggiungere ai loro spettacoli delle <b> proiezioni di video astratti</b>, ma non vogliono preoccuparsi del modo in cui questi video astratti vengono generati. <p/>
