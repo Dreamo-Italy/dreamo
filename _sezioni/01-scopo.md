@@ -5,8 +5,6 @@ name: Scopo del progetto
 heading: Scopo del progetto 
 subheading: 
 image: 
-
-<!-- image example "http://lorempixel.com/500/340/abstract" -->
 ---
 
 <p>I biosegnali, quali battito cardiaco e sudorazione, monitorati mediante un bracciale corredato di sensori, permettono di ricavare informazioni sullo stato d'animo del performer.</p>
@@ -16,3 +14,6 @@ image:
 <p>Queste informazioni verranno quindi utilizzate per scegliere l'effetto visivo che più si adatta alla performance, nonché per rendere il video reattivo e dinamico.</p>
 
 <p> Se siete interessati potete approfondire sfogliando questo <a href="https://drive.google.com/open?id=1OZDLGxfbXZeDAKrvFt3UCfgj15zuz4HuL2U-3lGGjKE"> documento.
+
+<!-- image example "http://lorempixel.com/500/340/abstract" -->
+
