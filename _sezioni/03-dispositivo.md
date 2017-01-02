@@ -4,7 +4,7 @@ nid: dispositivo
 name: Dispositivo
 heading: Struttura del dispositivo 
 subheading: 
-image: "http://lorempixel.com/500/320/abstract"
+image: 
 ---
 
 <p> Dreamo genera video astratti basandosi su <em>due tipi di informazione</em>, che provengono dal <b>corpo del performer</b> e dalla <b>musica in riproduzione.</b></p>
@@ -14,3 +14,4 @@ L’<b>audio in ingresso</b>, raccolto tramite ingressi jack, contiene altrettan
 <p> Se siete interessati potete approfondire sfogliando questo <a href="https://drive.google.com/open?id=1OZDLGxfbXZeDAKrvFt3UCfgj15zuz4HuL2U-3lGGjKE"> documento.
 
 <!-- frase originale: <p>Queste informazioni vengono quindi utilizzate per scegliere l'effetto visivo che più si adatta alla performance, nonché per rendere il video reattivo e dinamico.</p> -->
+<!-- "http://lorempixel.com/500/320/abstract" -->
