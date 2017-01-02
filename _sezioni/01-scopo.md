@@ -4,7 +4,7 @@ nid: scopo
 name: Scopo del progetto
 heading: Scopo del progetto 
 subheading: 
-image: 
+image: "http://lorempixel.com/500/340/abstract"
 ---
 <!--
 <p>I biosegnali, quali battito cardiaco e sudorazione, monitorati mediante un bracciale corredato di sensori, permettono di ricavare informazioni sullo stato d'animo del performer.</p>
