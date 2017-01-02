@@ -7,4 +7,10 @@ subheading:
 image: "http://lorempixel.com/500/320/abstract"
 ---
 
-On the other hand, we denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure of the moment, so blinded by desire, that they cannot foresee the pain and trouble that are bound to ensue; and equal blame belongs to those who fail in their duty through weakness of will, which is the same as saying through shrinking from toil and pain. <br><br>These cases are perfectly simple and easy to distinguish.
+<p> Dreamo genera video astratti basandosi su <em>due tipi di informazione</em>, che provengono dal <b>corpo del performer</b> e dalla <b>musica in riproduzione.</b></p>
+<p>I <b>biosegnali</b>, quali battito cardiaco e sudorazione, monitorati mediante un bracciale corredato di sensori, permettono di ricavare informazioni sullo stato d'animo del performer.<br>
+L’<b>audio in ingresso</b>, raccolto tramite ingressi jack, contiene altrettante informazioni sul mood dell'esibizione. </p>
+<p>Queste informazioni vengono quindi utilizzate per scegliere l'effetto visivo che più si adatta alla performance e che deve quindi essere proiettato al pubblico.  </p>
+<p> Se siete interessati potete approfondire sfogliando questo <a href="https://drive.google.com/open?id=1OZDLGxfbXZeDAKrvFt3UCfgj15zuz4HuL2U-3lGGjKE"> documento.
+
+<!-- frase originale: <p>Queste informazioni vengono quindi utilizzate per scegliere l'effetto visivo che più si adatta alla performance, nonché per rendere il video reattivo e dinamico.</p> -->
