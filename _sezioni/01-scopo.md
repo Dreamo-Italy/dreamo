@@ -13,4 +13,4 @@ image: "http://lorempixel.com/500/340/abstract"
 
 <p>Queste informazioni verranno quindi utilizzate per scegliere l'effetto visivo che più si adatta alla performance, nonché per rendere il video reattivo e dinamico.</p>
 
-<p>Se siete interessati potete approfondire sfogliando questo <a href="https://drive.google.com/open?id=1OZDLGxfbXZeDAKrvFt3UCfgj15zuz4HuL2U-3lGGjKE"> documento.</p>
+<p> Se siete interessati potete approfondire sfogliando questo <a href="https://drive.google.com/open?id=1OZDLGxfbXZeDAKrvFt3UCfgj15zuz4HuL2U-3lGGjKE"> documento.
