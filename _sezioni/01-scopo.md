@@ -14,9 +14,8 @@ image:
 <p>Queste informazioni verranno quindi utilizzate per scegliere l'effetto visivo che più si adatta alla performance, nonché per rendere il video reattivo e dinamico.</p> -->
 
 <p> Dreamo è l'incontro tra tecnologia ed emozioni umane. <br>
-Lo scopo è generare una visualizzazione grafica che varia a seconda dello stato d’animo dell'artista e della musica scelta per la performance.</p>
+Lo scopo del progetto è la costruzione di una macchina che generi una visualizzazione grafica che varia a seconda dello stato d’animo dell'artista e della musica scelta per la performance.</p>
 
-<p>A partire dai dati ricavati, e sulla basi di principi estetici e psicologici, Dreamo genererà un video astratto, modificando in tempo reale vari parametri e scegliendo la scena più adatta ad una particolare esecuzione ed interpretazione.</p>
 <p> Se siete interessati potete approfondire sfogliando questo <a href="https://drive.google.com/open?id=1OZDLGxfbXZeDAKrvFt3UCfgj15zuz4HuL2U-3lGGjKE"> documento.
 
 <!-- image example "http://lorempixel.com/500/340/abstract" -->
