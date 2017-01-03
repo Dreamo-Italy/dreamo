@@ -4,7 +4,7 @@ nid: dispositivo
 name: Dispositivo
 heading: Struttura del dispositivo 
 subheading: 
-image: "/img/dreamologhi.png"
+image: "/dreamo/img/dreamologhi.png"
 ---
 
 <br> <br>
