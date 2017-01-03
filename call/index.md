@@ -24,8 +24,8 @@ contatti-immagine:
 ---
 
 <h1>Call for Visuals</h1>
-**Dreamo** è un progetto open-source, pensato da un piccolo gruppo di appassionati di tecnologia e arte,
-studenti del Politecnico di Torino.
-<br/> Il nucleo del programma è stato scritto. Adesso servono **nuove idee** per
-la creazione di effetti visivi, in previsione della prima **performance pubblica** di Dreamo,
-che si terrà tra marzo e aprile.
+<p><b>Dreamo</b> è un progetto open-source, pensato da un piccolo gruppo di appassionati di tecnologia e arte,
+studenti del Politecnico di Torino.</p>
+<p> Il nucleo del programma è stato scritto. </p>
+<p> Adesso servono <em>nuove idee</em> per la creazione di effetti visivi, in previsione della prima <b>performance pubblica</b> di Dreamo, che si terrà tra marzo e aprile.
+</p>
