@@ -19,7 +19,8 @@ come-immagine:
 contatti-titolo: Contatti
 contatti-testo: '<p>e-mail: <a href="mailto:dreamoitaly@gmail.com">dreamoitaly@gmail.com</a><br>
 Facebook: <a href="http://facebook.com/dreamoItaly">facebook.com/dreamoItaly</a><br>
-website: <a href="https://dreamo-italy.github.io/dreamo">https://dreamo-italy.github.io/dreamo</a></p>
+Website: <a href="https://dreamo-italy.github.io/dreamo">https://dreamo-italy.github.io/dreamo</a><br>
+GitHub: <a href="https://github.com/Dreamo-Italy">github.com/Dreamo-Italyy</a></p>
 
 <p>Se invece volete scambiare due parole di persona, ci trovate tutti i mercoledì pomeriggio al
 <a href="http://fablabtorino.org/">Fablab</a>.</p> '
