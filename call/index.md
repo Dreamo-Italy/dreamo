@@ -11,7 +11,9 @@ requisiti-immagine:
 
 come-titolo: Come partecipare al Progetto Dreamo
 come-testo: '<p>Se il progetto ti appassiona contattaci al più presto e <strong>proponi
-la tua idea</strong>. Insieme la implementeremo su Dreamo entro febbraio 2017. </p>'
+la tua idea</strong>. Insieme la implementeremo su Dreamo entro febbraio 2017. </p> 
+<p> Per saperne di più sul Progetto Dreamo, leggi <a href="https://docs.google.com/document/d/1OZDLGxfbXZeDAKrvFt3UCfgj15zuz4HuL2U-3lGGjKE/edit?usp=sharing"> questo documento. </a> </p>
+<p> Se invece vuoi dare un&#8217;occhiata al codice, <a href="https://github.com/Dreamo-Italy"> questa </a> è la nostra pagina GitHub.</p>'
 come-immagine:
 
 contatti-titolo: Contatti
@@ -29,3 +31,7 @@ studenti del Politecnico di Torino.</p>
 <p> Il nucleo del programma è stato scritto. </p>
 <p> Adesso servono <em>nuove idee</em> per la creazione di effetti visivi, in previsione della prima <b>performance pubblica</b> di Dreamo, che si terrà tra marzo e aprile.
 </p>
+
+<!-- link github: 
+Se invece vuoi dare un'occhiata al codice, <a href="https://github.com/Dreamo-Italy"> questa </a> è la nostra pagina GitHub.
+-->
