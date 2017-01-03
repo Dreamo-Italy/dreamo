@@ -7,11 +7,11 @@ requisiti-titolo: Requisiti
 requisiti-testo: 'Cerchiamo <strong>programmatori</strong>, <strong>designer</strong>, <strong>visual artists</strong> o <strong>appassionati</strong>
 che vogliano collaborare alla creazione di effetti visivi
 da realizzare con software <a href="https://processing.org" ><em>Processing</em></a> (Java).'
-requisiti-immagine: "processing-handbook.jpg"
+requisiti-immagine:
 
 come-titolo: Come partecipare al Progetto Dreamo
-come-testo: "Se il progetto ti appassiona contattaci al più presto e <strong>proponi
-la tua idea</strong>. Insieme la implementeremo su Dreamo entro febbraio 2017. "
+come-testo: '<p>Se il progetto ti appassiona contattaci al più presto e <strong>proponi
+la tua idea</strong>. Insieme la implementeremo su Dreamo entro febbraio 2017. </p>'
 come-immagine:
 
 contatti-titolo: Contatti
@@ -19,7 +19,7 @@ contatti-testo: 'e-mail: <a href="mailto:dreamoitaly@gmail.com">dreamoitaly@gmai
 Facebook: <a href="http://facebook.com/dreamoItaly">facebook.com/dreamoItaly</a><br>
 website: <a href="https://dreamo-italy.github.io/dreamo">https://dreamo-italy.github.io/dreamo</a><br>
 Se invece volete scambiare due parole di persona, ci trovate tutti i mercoledì pomeriggio al
-<a href="http://fablabtorino.org/">_Fablab_</a>. '
+<a href="http://fablabtorino.org/">Fablab</a>. '
 contatti-immagine:  
 ---
 
