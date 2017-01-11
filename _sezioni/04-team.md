@@ -4,11 +4,11 @@ nid: team
 name: Il Team
 heading: Dreamo Teamo  
 subheading: 
-image1: "http://lorempixel.com/240/240/people/1"
+image1: "img/foto_francesco.jpg"
 image2: "http://lorempixel.com/240/240/people/2"
 image3: "http://lorempixel.com/240/240/people/3"
 image4: "http://lorempixel.com/240/240/people/4"
-image5: "http://lorempixel.com/240/240/people/5"
+image5: "img/foto_andrea.jpg"
 bio1: Francesco Cretti
 bio2: Giovanni Bologni
 bio3: Luciano Prono
