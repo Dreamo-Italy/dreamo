@@ -4,7 +4,13 @@
 /* layout a 5 colonne */
 
 .col-sm-2-4 {
-	.make-sm-column(2.4)
+	position:relative;
+	min-height:1px;
+	padding-left:15px;
+	padding-right:15px
+}
+@media (min-width:768px) {
+	.col-sm-2-4{float:left;width:20%}
 }
 
 // Global Components
