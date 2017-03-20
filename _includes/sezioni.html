@@ -7,7 +7,8 @@
                 <div class="header-content">
                     <div class="header-content-inner">
                         <h2>{{feature.heading}}<br><span>{{ feature.subheading }}</span></h2>
-                              <div class='lead'>{{ feature.content }}</div>
+						{% assign testo = 'testo_' | append: page.lang %}
+                              <div class='lead'>{{ feature[testo] }}</div>
                     </div>
                 </div>
             </div>
@@ -15,35 +16,35 @@
         <div class="row">
 			<div class="col-sm-2-4">
                 <div class="text-center">
-                	<img class='img-responsive img-circle' src='{{ feature.image1 }}'><br>
+                	<img class='img-responsive img-circle' src='{{ site.baseurl }}{{ feature.image1 }}'><br>
                 	<p>{{ feature.bio1 }}</p>
                 </div>
             </div>
-            
+
 			<div class="col-sm-2-4">
                 <div class="text-center">
                 	<img class='img-responsive img-circle' src='{{ feature.image2 }}'><br>
                 	<p>{{ feature.bio2 }}</p>
                 </div>
             </div>
-            
+
 			<div class="col-sm-2-4">
                 <div class="text-center">
-                	<img class='img-responsive img-circle' src='{{ feature.image3 }}'><br>
+                	<img class='img-responsive img-circle' src='{{ site.baseurl }}{{ feature.image3 }}'><br>
                 	<p>{{ feature.bio3 }}</p>
                 </div>
             </div>
-            
+
 			<div class="col-sm-2-4">
                 <div class="text-center">
                 	<img class='img-responsive img-circle' src='{{ feature.image4 }}'><br>
                 	<p>{{ feature.bio4 }}</p>
                 </div>
             </div>
-            
+
             <div class="col-sm-2-4">
                 <div class="text-center">
-                	<img class='img-responsive img-circle' src='{{ feature.image5 }}'><br>
+                	<img class='img-responsive img-circle' src='{{ site.baseurl }}{{ feature.image5 }}'><br>
                 	<p>{{ feature.bio5 }}</p>
                 </div>
             </div>
@@ -53,8 +54,10 @@
             <div class="col-sm-7">
                 <div class="header-content">
                     <div class="header-content-inner">
-                        <h2>{{feature.heading}}<br><span>{{ feature.subheading }}</span></h2>
-                              <div class='lead'>{{ feature.content }}</div>
+						{% assign heading = 'heading_' | append: page.lang %}
+                        <h2>{{feature.heading}}<br><span>{{ feature.[heading] }}</span></h2>
+							{% assign testo = 'testo_' | append: page.lang %}
+                              <div class='lead'>{{ feature[testo] }}</div>
                     </div>
                 </div>
             </div>
@@ -68,4 +71,3 @@
     </div>
 </section>
 {% endfor %}
-

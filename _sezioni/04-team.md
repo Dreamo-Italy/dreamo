@@ -1,9 +1,10 @@
 ---
 id: team
 nid: team
-name: Il Team
-heading: Dreamo Teamo  
-subheading: 
+name_it: Il Team
+name_en: The Team
+heading: Dreamo Teamo
+subheading:
 image1: "img/foto_francesco.jpg"
 image2: "http://lorempixel.com/240/240/people/2"
 image3: "img/foto_luciano.jpg"
@@ -14,9 +15,11 @@ bio2: Giovanni Bologni
 bio3: Luciano Prono
 bio4: Nicola Ruffino
 bio5: Andrea Gambedotti
+
+testo_it: Chi siamo
+testo_en: Who we are
 ---
 
-Chi siamo
 
 <!-- image1: "http://lorempixel.com/240/240/people/1"
 image2: "http://lorempixel.com/240/240/people/2"
