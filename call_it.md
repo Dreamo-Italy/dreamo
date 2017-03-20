@@ -32,13 +32,17 @@ GitHub: <a href="https://github.com/Dreamo-Italy">github.com/Dreamo-Italyy</a></
 <p>Se invece volete scambiare due parole di persona, ci trovate tutti i mercoledì pomeriggio al
 <a href="http://fablabtorino.org/">Fablab</a>.</p> '
 contatti-immagine:
+
+patrocinio: "Con il sostegno della Commissione Contributi e Progettualità
+    			Studentesca del Politecnico di Torino"
+
 ---
 
 <h1>Call for Visuals</h1>
 <p><b>Dreamo</b> è un progetto open-source, pensato da un piccolo gruppo di appassionati di tecnologia e arte,
 studenti del Politecnico di Torino.</p>
 <p> Il nucleo del programma è stato scritto. </p>
-<p> Adesso servono <em>nuove idee</em> per la creazione di effetti visivi, in previsione della prima <b>performance pubblica</b> di Dreamo, che si terrà tra marzo e aprile.
+<p> Adesso servono <em>nuove idee</em> per la creazione di effetti visivi, in previsione della prima <b>performance pubblica</b> di Dreamo, che si terrà il 30 marzo 2017 presso l'Aula 5N dalle ore 17:30 alle 20:00.
 </p>
 
 <!-- link github:
