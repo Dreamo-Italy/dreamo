@@ -16,28 +16,27 @@ requisiti-testo: "We're looking for <strong>coders</strong>, <strong>designers</
 wishing to contribute to create new visual effects to be developed in Java within the <a href=\"https://processing.org\" ><em>Processing</em></a> processing software."
 requisiti-immagine:
 
-come-titolo: Come partecipare al Progetto Dreamo
-come-testo: '<p>Se il progetto ti appassiona contattaci al più presto e <strong>proponi
-la tua idea</strong>. Insieme la implementeremo su Dreamo entro febbraio 2017. </p>
-<p> Per saperne di più sul Progetto Dreamo, leggi <a href="https://docs.google.com/document/d/1OZDLGxfbXZeDAKrvFt3UCfgj15zuz4HuL2U-3lGGjKE/edit?usp=sharing"> questo documento. </a> </p>
-<p> Se invece vuoi dare un&#8217;occhiata al codice, <a href="https://github.com/Dreamo-Italy"> questa </a> è la nostra pagina GitHub.</p>'
+come-titolo: How to participate in the Dreamo Project
+come-testo: "<p>If you're passionate about the project contact us as soon as possible and <strong> submit
+your idea </ strong>. Along with the implementation of Dreamo by February 2017. </p>
+<p> To learn more about the Dreamo project please read <a href=\"https://docs.google.com/document/d/1OZDLGxfbXZeDAKrvFt3UCfgj15zuz4HuL2U-3lGGjKE/edit?usp=sharing\"> this document. </a> </p>
+<p> If you want to have a look at the code, <a href=\"https://github.com/Dreamo-Italy\"> this </a> is our GitHub page.</p>"
 come-immagine:
 
-contatti-titolo: Contatti
+contatti-titolo: Contacts
 contatti-testo: '<p>e-mail: <a href="mailto:dreamoitaly@gmail.com">dreamoitaly@gmail.com</a><br>
 Facebook: <a href="http://facebook.com/dreamoItaly">facebook.com/dreamoItaly</a><br>
 Website: <a href="https://dreamo-italy.github.io/dreamo">https://dreamo-italy.github.io/dreamo</a><br>
 GitHub: <a href="https://github.com/Dreamo-Italy">github.com/Dreamo-Italyy</a></p>
 
-<p>Se invece volete scambiare due parole di persona, ci trovate tutti i mercoledì pomeriggio al
-<a href="http://fablabtorino.org/">Fablab</a>.</p> '
+<p>Wanna meet us and talk face to face? Come to the Torino <a href="http://fablabtorino.org/">Fablab</a> on wednesdays afternoon.</p> '
 contatti-immagine:
 ---
 
 <h1>Call for Visuals</h1>
-<p><b>Dreamo</b> is an open source project, pensato da un piccolo gruppo di appassionati di tecnologia e arte, studenti del Politecnico di Torino.</p>
-<p> Il nucleo del programma è stato scritto. </p>
-<p> Adesso servono <em>nuove idee</em> per la creazione di effetti visivi, in previsione della prima <b>performance pubblica</b> di Dreamo, che si terrà tra marzo e aprile.
+<p><b>Dreamo</b> is an open source project, conceived by a small group of technology enthusiasts and art, students at the Politecnico di Torino.</p>
+<p> The core of the software has already been written. </p>
+<p> Now we need new ideas about creating visual effects, in anticipation of the first <b> public performance </ b> Dreamo, to be held on march 30, 2017 at the Politecnico di Torino.
 </p>
 
 <!-- link github:
