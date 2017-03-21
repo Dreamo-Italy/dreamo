@@ -14,10 +14,10 @@ testo_it: "<br> <br>
 <p> Se siete interessati potete approfondire sfogliando questo <a href=\"https://drive.google.com/open?id=1OZDLGxfbXZeDAKrvFt3UCfgj15zuz4HuL2U-3lGGjKE\"> documento.</a>"
 
 testo_en: "<br> <br>
-<p>The purpose of the project is the construction of a machine that generates a graphical display that varies depending on the state of mind\'s artist of choice for music performances.</p>
+<p>The purpose of the project is the construction of a machine that generates a graphical display that varies depending on the data obtained by music analysis and biological sensors, worn by the musician/artist. This allows to capture the unique state of a musical performance </p>
 
 <p> If you are interested you can learn more by browsing this
- <a href=\"https://drive.google.com/open?id=1OZDLGxfbXZeDAKrvFt3UCfgj15zuz4HuL2U-3lGGjKE\"> document.</a>"
+ <a href=\"https://drive.google.com/open?id=1OZDLGxfbXZeDAKrvFt3UCfgj15zuz4HuL2U-3lGGjKE\"> document (The document is in italian. An english version will be available soon).</a>"
 ---
 <!--
 <p>I biosegnali, quali battito cardiaco e sudorazione, monitorati mediante un bracciale corredato di sensori, permettono di ricavare informazioni sullo stato d'animo del performer.</p>
