@@ -13,8 +13,8 @@ testo_it: "<p>Uno dei punti chiave del progetto è l’utilizzo di due tipi di i
 <p>Abbiamo inoltre scelto il linguaggio di programmazione open-source Processing, basato su Java, che si rivela adatto a gestire aspetti multimediali e grafici.</p>
 <p> Se siete interessati potete approfondire sfogliando questo <a href=\"https://drive.google.com/open?id=1OZDLGxfbXZeDAKrvFt3UCfgj15zuz4HuL2U-3lGGjKE\"> documento. <p/>"
 
-testo_en: "<p>One of the key points of the project is the use of two types of inputs at the same time: the input of body sensors and the music, which collaborate in the establishment of a state power and the subsequent generation of video </p>
-<p>Dreamo is based on the Arduino and Raspberry PI platforms, which will be exploited respectively for audio and biomedical sensors management. The Raspberry will focus on the generation of the video and projection. </p>
+testo_en: "<p>One of the key points of the project is the use of two types of inputs at the same time: the input of body sensors and the music, which collaborate in the mood detection and in the subsequent video generation </p>
+<p>Dreamo is based on the Raspberry PI and Arduino platforms, which will be exploited respectively for audio and biomedical sensors management. The Raspberry will also manage the video generation and projection. </p>
 <p> We also chose the open-source programming language Processing, based on Java, which is suited to handle multimedia and graphical aspects. </p>
 <p> If you are interested you can learn more by browsing <a href=\"https://drive.google.com/open?id=1OZDLGxfbXZeDAKrvFt3UCfgj15zuz4HuL2U-3lGGjKE\"> this document. </p>"
 ---
