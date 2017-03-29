@@ -6,9 +6,9 @@ name_en: The Team
 heading: Dreamo Teamo
 subheading:
 image1: "img/foto_francesco.jpg"
-image2: "http://lorempixel.com/240/240/people/2"
+image2: "img/foto_giovanni.jpg"
 image3: "img/foto_luciano.jpg"
-image4: "http://lorempixel.com/240/240/people/3"
+image4: "img/foto_nicola.jpg"
 image5: "img/foto_andrea.jpg"
 bio1: Francesco Cretti
 bio2: Giovanni Bologni
